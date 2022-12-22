@@ -1,0 +1,40 @@
+.textoA{
+
+    position: relative;
+    top: 90px;
+    left: 3cm;
+    padding-bottom: 100px;
+}
+
+.texto{
+    width: 500px;
+    height: 433px;
+    font-size: 20px;
+    border:none;
+    color: #0A3871;
+    background-color: rgb(233, 243, 243);
+}
+
+.logo{
+    position: absolute;
+    top: 1cm;
+}
+
+.botonE{
+    width: 250px;
+    height: 55px;
+    border-radius: 15px;
+    background:#0A3871;
+    color: #D8DFE8;
+    font-size: 15px;
+
+}
+
+.botonD{
+    width: 250px;
+    height: 55px;
+    border-radius: 15px;
+    background: #dfe3ea;
+    color: #0A3871;
+    font-size: 15px;
+}
