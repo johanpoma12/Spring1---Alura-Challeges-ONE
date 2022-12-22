@@ -21,7 +21,7 @@
 }
 
 .botonE{
-     width: 250px;
+    width: 250px;
     height: 55px;
     border-radius: 15px;
     background:#0A3871;
@@ -48,4 +48,37 @@
 .botonD:active {
     transform: scale(0.98); 
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+.extra{
+    padding-left: 50px;
+    padding-bottom: 133px;
+   
+    
+  }
+/*Modulo de conversion*/ 
+.botonCopy{
+    width: 250px;
+    height: 55px;
+    border-radius: 15px;
+    background: #dfe3ea;
+    color: #0A3871;
+    font-size: 15px;
+
+} 
+
+.botonCopy:active {
+    transform: scale(0.98); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+.textoconvert{
+    
+    width: 500px;
+    height: 433px;
+    font-size: 20px;
+   border: none;
+    color: #0A3871;
+    background-color: rgb(233, 243, 243);
+    
 }
