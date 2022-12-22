@@ -21,13 +21,19 @@
 }
 
 .botonE{
-    width: 250px;
+     width: 250px;
     height: 55px;
     border-radius: 15px;
     background:#0A3871;
     color: #D8DFE8;
-    font-size: 15px;
+    font-size: 15px; 
+ 
 
+}
+
+.botonE:active {
+    transform: scale(0.98); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 
 .botonD{
@@ -37,4 +43,9 @@
     background: #dfe3ea;
     color: #0A3871;
     font-size: 15px;
+}
+
+.botonD:active {
+    transform: scale(0.98); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
